@@ -1,0 +1,13 @@
+# Blender 5.0.1 MTL File: 'Untitled.blend'
+# www.blender.org
+
+newmtl model_u1_v1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd luke_kelly_diffuse_4k.jpg
+map_Bump luke_kelly_normal_4k.png
