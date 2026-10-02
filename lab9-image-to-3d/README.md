@@ -20,4 +20,4 @@ Turn the main object on each booklet page into 3D with **Microsoft TRELLIS.2**, 
 - `relics_of_the_void.blend`: the full scene. `render.mp4`: the result. `report.pdf`: my workflow report (written before the final camera tweaks, so its camera numbers differ slightly from the file).
 
 ## What I would change
-Remove a leftover lens zoom that no longer matches the orbit, move two lights that stayed behind when the seed pod moved, and clear out duplicated lights.
+Remove a leftover lens zoom that no longer matches the orbit as it looks so cringe now that I see it, move two lights that stayed behind when the seed pod moved, and clear out duplicated lights.
